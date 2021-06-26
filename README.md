@@ -1,8 +1,8 @@
 - 👋 Hi, I’m László Stummer.
 - 👀 I’m interested in software development. Extremely in Java Backend nowadays.
 - 🌱 I’m currently learning:
-  - testing: JUnit, AssertJ, Mockito,
   - Spring Boot framework,
+  - testing: JUnit, AssertJ, Mockito,
   - Maven,
   - Docker.
 - 🤝 I’m searching my new employer who ensure me tasks, where I can do nothing else just coding, coding and coding.<br/>
